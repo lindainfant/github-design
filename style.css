@@ -1,0 +1,91 @@
+        *body{
+            margin:1px;
+        }
+        h1{
+            background-color: rgb(58, 58, 57);
+            color:white;
+            padding: 30px;
+            text-size-adjust: 200px;
+            }
+        h1{
+            text-align: center;
+        }
+        
+        
+    
+        .search{
+            
+            background-color:rgb(58, 58, 57); 
+            height: 40px;
+            width: 500px;
+            border-radius: 50px;
+            margin-left: 500px;
+            color: white;
+            text-align:left;
+            text-size-adjust:50px;
+            margin-top: 50px;
+            
+        }
+        
+        body{
+            background-color:rgb(238, 245, 226); ;
+        }
+        
+        .one{
+           height: 600px;
+           width:350px;
+           background-color:rgb(58, 58, 57);
+           display: inline-block;
+           border-radius: 50px;
+           margin-right: 50px;
+
+        }
+        .two{
+            height: 120px;
+            width: 120px;
+            background-color: rgb(58, 58, 57);
+            display: inline-block;
+            border-radius: 10px;
+            padding-right: 50px;
+            margin-left:50px;
+            margin-top:200px;
+            margin-bottom: 200px;
+        }
+
+        
+        .three{
+            height: 120px;
+            width: 120px;
+            background-color:rgb(58, 58, 57);
+            display: inline-block;
+            border-radius: 10px;
+            margin-left: 100px;
+            padding-right: 50px;
+            margin-bottom: 200px;
+            
+        }
+        
+        .four{
+            height: 120px;
+            width: 120px;
+            background-color: rgb(58, 58, 57);
+            display: inline-block;
+            border-radius: 10px;
+            margin-left: 100px;
+            padding-right: 50px;
+            margin-bottom: 200px;
+            }
+        
+        .five{
+            height: 200px;
+            width: 850px;
+            background-color:rgb(58, 58, 57);
+            display: inline-block;
+            border-radius: 20px;
+            margin-left: 400px;
+            margin-block: 0px;
+            margin-bottom:0px ;
+    
+        }
+        
+        
